@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="yolov7-object-tracking",
+    name="yolov7_tracker",
     version="0.1",
     author="yangsenius",
     description="yolo-tracker",
